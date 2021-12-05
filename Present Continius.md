@@ -39,6 +39,9 @@ In this case we usually use an adverb like 'always', 'forever' or 'constantly'.
 -   She’s always eating something.
 -   It’s always raining in Scotland.
 -   They’re always laughing at me.
+-   My dad **is** always **complaining**.
+-   Ugh! My sister**'s** constantly **bangin****g** on the piano.
+-   **Are** you **using** my computer again?
 
 **we DON'T use present continuous** with non-action verbs(need, like, love, think, seem etc.) [[Action and non action verbs]]
 We use [[Present Simple]]:
