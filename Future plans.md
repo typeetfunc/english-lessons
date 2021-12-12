@@ -1,4 +1,4 @@
-### _will_
+### _will_ [[Future Simple]]
 
 We use _will_ to talk about spontaneous plans decided at the moment of speaking.
 

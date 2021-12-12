@@ -14,8 +14,8 @@
 
 - this week i’m not doing my regularly exercises.
 
-**fixed plans and arrangements(i am working at next weekend)**
-
+**fixed plans and arrangements** [[Future plans]]
+- i am working at next weekend
 - i’m visiting a doctor next week.
 
  - i’m meeting a friend tomorrow.
@@ -55,7 +55,7 @@ We use [[Present Simple]]:
  - Do you smell something funny?
  - Does he understand which way to go?
 
-
+[When to use the Present Simple and Present Continuous Tenses](https://www.oysterenglish.com/present-simple-and-present-continuous.html)
 
 
   

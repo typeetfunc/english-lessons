@@ -19,7 +19,7 @@
  - the earth turns around itself once a day.
 
 we see only one side of a moon from the earth.
-**habits** ([[Used to]] [[Present Continius]])
+**habits** ([[Used to]] [[Present Continius]] [[Example texts about hobbies and interests]])
  - i do physical exercises every morning.
 
  - i drink tea every morning.
