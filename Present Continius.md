@@ -43,7 +43,7 @@ In this case we usually use an adverb like 'always', 'forever' or 'constantly'.
 -   Ugh! My sister**'s** constantly **bangin****g** on the piano.
 -   **Are** you **using** my computer again?
 
-**we DON'T use present continuous** with non-action verbs(need, like, love, think, seem etc.) [[Action and non action verbs]]
+**we DON'T use present continuous** with non-action verbs(need, like, love, think, seem etc.) [[Stative vs Dynamic Verbs]]
 We use [[Present Simple]]:
  - She likes it in Germany.
  - I love lying in bed late on Sunday mornings.

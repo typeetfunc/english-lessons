@@ -16,7 +16,7 @@
 -   When he graduated, he had been in London for six years. (= He arrived in London six years before he graduated and lived there until he graduated, or even longer.)
 -   On the 20th of July, I'd worked here for three months.
 
-**To talk about unreal or imaginary things in the past. In the same way that we use the past simple to talk about unreal or imaginary things in the present, we use the past perfect (one step back in time) to talk about unreal things in the past.** This is common in the [third conditional](https://www.perfect-english-grammar.com/third-conditional.html) and after ['wish'](https://www.perfect-english-grammar.com/wish.html).
+**To talk about unreal or imaginary things in the past. In the same way that we use the [[Past Simple]] to talk about unreal or imaginary things in the present, we use the past perfect (one step back in time) to talk about unreal things in the past.** This is common in the [third conditional](https://www.perfect-english-grammar.com/third-conditional.html) and after ['wish'](https://www.perfect-english-grammar.com/wish.html).
 
 -   If I had known you were ill, I would have visited you.
 -   She would have passed the exam if she had studied harder.

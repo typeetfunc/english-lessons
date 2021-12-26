@@ -32,6 +32,6 @@ We CAN'T use the present perfect with a finished time word.
 
 https://www.perfect-english-grammar.com/present-perfect-use.html
 
-### Present perfect vs past simple
+### Present perfect vs [[Past Simple]]
  -  When did you start working for this company? (потому что начал в законченном периоде в прошлом - речь именно о старте а не о работе - если бы был перфект вопрос то был бы вопрос с since/for и глаголом work)
  -  Glad to see you again! Where have you been?(где ты был до того как мы встретились)

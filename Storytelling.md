@@ -56,6 +56,7 @@ We were happy because we **had received** our university acceptance letter.
 - She was looking for some interesting facts about the history of her city when she accidentally came across this piece of information.
 - While I was packing my suitcase, I  realised that I  had forgotten  to buy some things, but it was late and all the shops  had already closed
 - When I went outside, the taxi  had already arrived and it  was waiting for me near the house.
+- Had the lesson started by the time you entered the classroom?
 
 ## Reported Speech
 
