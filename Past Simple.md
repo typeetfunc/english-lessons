@@ -17,7 +17,7 @@ when we know from general knowledge that the time period has finished. This incl
 -   I've been on holiday. I went to Spain and Portugal.
 
 **Main events in a story**
-we often use the past simple for the actions in the story and the past continuous for the background.
+we often use the past simple for the actions in the story and the [[Past Continuous]] for the background.
 
 -   He *went* to a café. People *were chatting* and music *was playing*. He sat down and ordered a coffee.
 

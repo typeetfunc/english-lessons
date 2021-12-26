@@ -9,22 +9,22 @@ I participated in the following projects:
 **Frontend for public part of public platform one of the largest russian bank(2015-2018)  
 **I started working on this project, when it was being begun redesinging completly. Only at frontend side, 100+ developers and 10+ were involved with the project. Codebase had 300+ KLoC. I had several accomplishments on this project:  
   
-- i've begun to introduce unit-testing in my team and promoted it on cross-team level. I wirtten base utils for unit-testing, first reference examples of unit-tests and guides for writing tests. All teams were using this utils, examples and guides, as long as project was switched to another testing library(Enzyme) (FIXME Past Perfect vs Past continius)
+- i've begun to introduce unit-testing in my team and promoted it on cross-team level. I wirtten base utils for unit-testing, first reference examples of unit-tests and guides for writing tests. All teams had used this utils, examples and guides, as long as project was switched to another testing library(Enzyme)
   
 - I've enhanced our build system. I enhanced and fixed several babel plugins ([for example babel-plugin-ramda](https://github.com/megawac/babel-plugin-ramda/pull/12)). During this process, I was finding bugs in Babel and commiting tests and issues in [Babel repo] (https://github.com/babel/babel/pull/3495)  
   
 - I've introduced using functional concepts such as Lens and Iso for working with hierarchical data structures. Its tools helped us worked with complex normalized immutable data structures without boilerplate. Also, this tools ensured consistency when we were updating and normalizing/denormalizing our data 
   
-- I've written реализовал собственную внутреннюю мини-библиотеку для работы с вложенными формами  
+- I've built my own library for working with hierarchical forms
   
-- продвигал использование тайпчекера для кода - написал codemod реакт-приложений в flow заточенный под специфику проекта.  Также продвигал использование контрактных систем(tcomb, runtypes) для описания типов приходящих из внешних источников и более плавного перехода на типизированный JS  
+- I've promoted using typechecker for our codebase. I written codemod for converting react app to Flowtype, which was tailored for project's features. Also, I promoted using contract system(tcomb, runtypes) for specification external data and more gradual transition on typed JS
   
-- продвигал использование property testing для тестирования свойств "ядра" системы  
+- I've built PoC using property-based testing for testing core properties of our system
   
-- предлагал различные варианты развития архитектуры приложения - продвигал "фрактальную" архитектуру и написал [POC библиотеки для реализации такой архитектуры на redux](https://github.com/typeetfunc/redux-fractal-connect)   
+- I've proposed different ways to enhace architecture of our app. I've promoted fractal/onion architecture and built PoC of ["fractal redux connector library"](https://github.com/typeetfunc/redux-fractal-connect)   
   
-**MVP дашборда для инвестиционного стартапа(2018)  
-**Небольшой проект(1,5 месяца) в рамках которого был сделан небольшой дашборд на React&Mobx для работы с котировками инвест. инструментов в реальном времени(POC для проверки идеи экспериментальной фичи основного продукта клиента)  
+**MVP of stocks dashboard(terminal) for fintech startup(2018)  
+**It was small and short project(1,5 month). I've built interactive and real-time dashboard for trade in assets. I've used React and MobX for this. It was proof-of-concept of new expiremental feature for our client's main product.  
   
 **Фронтенд продукта используемого центробанками для исследования инцидентов в сфере кибербезопасности(2018-2020)  
 **Попал на проект в момент перехода с angular.js на angular и смены бизнесс-ориентиров.  Проект делали несколько небольших(менее 5 человек) команд. Кодовая база менее 100кloc. Мои достижения на проекте:  
@@ -34,6 +34,8 @@ I participated in the following projects:
  - разработка и внедрение plugin-based архитектуры для ангуляр приложения. Плагины размешались в отдельном репозитории и предполагали возможность безрелизного изменения операторами партнера-интегратора, что порождало необходимость контроля изменений и реализации возможности быстрой отмены в случае проблем  
   
 - внедрение инструментов монорепозитория(lerna) в проект, и связанное с этим изменения сборки проекта  
+
+
 **  
 Система кастомизируемых дашбордов крупной госкомпании(2020-2021)  
 **Продукт состоял из UI-Kit и системы дашбординга, которая могла создаваться самим пользователем, что в свою очередь требовало системы миграций конфигов дашбордов при изменении API компонентов. В основном занимался на проекте отдельными фичами, но успел также:  
