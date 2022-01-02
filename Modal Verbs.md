@@ -7,6 +7,14 @@ These verbs are helpers and differ from any general verb and has following usage
 -  are followed directly by the infinitive of another verb (without 'to').
 
 There are several cases when we use modal verbs.
+### Probability (Вероятность)
+tbd
+### Ability (Возможности, навыки)
+tbd
+### Permission (Разрешения)
+tbd
+### Habbits (Привычки)
+tbd
 
 ### Obligation (Должествование)
 
