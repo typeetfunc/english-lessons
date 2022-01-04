@@ -143,3 +143,38 @@ don't have to - __отсутствие необходимости__
 
 __Past form: had to/ didn't have to.__
 > _I had to wear a school uniform when I was a child._
+
+
+## Future tense
+There is no such way of casting any of the modal verbs _can/could, may/might, must, shall/should, will/would_ in future form with _will_.
+
+This is because the modal verbs are all _defective_: they have only two forms, past and present (_must_ has only one), so they lack the infinitive form which follows auxiliary will.
+
+There are two ways around this.
+
+1.  The simple present of most verbs can be used with future reference, so one thing you can do is simply use _can_ with some indication of futurity.
+    
+    > I cannot do that tomorrow.  
+    > I may do that tomorrow.
+    
+2.  The other thing you can do is employ the infinitive of a "periphrastic" construction as the complement of _will_. With _can_, for instance, the periphrastic construction is _BE able to_; with _will_ it's _BE going to_.
+    
+    > I will not **be able to** do that.  
+    > I will **be going to** do that.
+    
+    Other periphrastics which come in handy for this are:
+    
+    > for _may/might_: _be permitted/allowed to_: He will be permitted to do that.  
+    > for _must_: _be obliged/required to_: He will be obliged to do that.  
+    > for _should_: _be expected to_: He will be expected to do that.  
+    > for _will_: _be going to_: He will be going to do that.
+    
+    There are more, because all the modals have a wide variety of meanings, and many of these meanings have one or more periphrastics.
+    
+
+Note that the modal verbs have no participles either, so they can't be cast in the perfect construction or employed as gerunds or adjectives. Again, the way around this is to employ the appropriate periphrastic:
+
+> I have been able to do that.  
+> Being able to do that would be helpful.
+
+Modal verbs are intransitive and can't be cast in the passive, and they're stative and therefore can't be cast in the progressive, so you don't have to worry about those forms.
