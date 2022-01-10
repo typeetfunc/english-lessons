@@ -61,3 +61,19 @@ I participated in the following projects:
 -   10.2014-01.2015 - временно переключился на написание javascript для маркетплейса(в основном это касалось интеграции бекенда с фронтендом)
 -   01.2015-11.2015 - запуск и поддержка(бекенд+фронтенд+администрирование) второго проекта(системы магазинов). Помимо разработки фич и багфиксов, занимался инфраструктурными задачами - переход к feature-based версионированию и автоматизированному деплою, централизованному логгированию(fluentd/graylog2), использованию ansible([https://github.com/typeetfunc/ansible-experiments](https://github.com/typeetfunc/ansible-experiments)) для создания и управления узлами приложения.
 -   помимо этих проектов постоянно участвовал в доработке корпоративных библиотек(фреймворка([https://github.com/typeetfunc/pef-front-psgi-dist](https://github.com/typeetfunc/pef-front-psgi-dist)) и библиотек для логгирования([https://github.com/typeetfunc/pef-log](https://github.com/typeetfunc/pef-log)) и доступа к данным), делал прототип аггрегатора интернет-супермаркетов(включающего парсинг каталога крупных магазинов при помощи phantom.js и кластеризация товаров по признакам)
+
+
+### Skyeng homework 1
+Imagine that you are preparing for a job interview in English. You can imagine any foreign or international company.
+
+Tell what company you want to work for and answer the questions:
+
+1.  Why do you want to work in this company?
+2.  What is your greatest professional achievement?
+3.  What are your weaknesses?
+4.  Where do you see yourself in 5 years as a professional?
+
+
+I want to work in this company, because it is social responsible company which make many cool and helpful for local communities projects. I want to make same meaningful things at my work. Also I want to work surrounded by smart and diverse people.
+I've worked as programmer for eight years already and I've built many projects. On my last project I taken role of architector of whole project and adopted many best-practices in all parts of development process. 
+But also after this I've realized that the hardest things are  people-related but not tech-related things. Finding a way to another person, recieving and handling feedback, reaching consensys in team is very hard and complex thing, and especially for me. All developers is very different and umsimilar to each other. We can even think different. However, we have to work together and build trust between us.  Because of it, I want to improve my soft-skills and leadership. I dream that I will work as mentor and consultant with several teams and devs community in 5 years.
